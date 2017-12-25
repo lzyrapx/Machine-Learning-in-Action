@@ -7,7 +7,7 @@ Practices for Machine-Learning-in-Action.
 ### PART 1 CLASSIFICATION
 1. [x] chapter01 - Machine learning basics
 2. [x] chapter02 - Classifying with k-Nearest Neighbors
-3. [ ] chapter03 - Splitting datasets one feature at a time: decision trees
+3. [x] chapter03 - Splitting datasets one feature at a time: decision trees
 4. [ ] chapter04 - Classifying with probability theory: naive Bayes
 5. [ ] chapter05 - Logistic regression
 6. [ ] chapter06 - Support vector machines
