@@ -12,7 +12,7 @@
 
 为了计算某一个特征的概率 ![\\inline P\(w|X\)](http://latex.codecogs.com/png.latex?%5Cinline%20P%28w|X%29)，如果 ![\\inline w](http://latex.codecogs.com/png.latex?%5Cinline%20w) 的取值是离散的，直接使用古典概型计算即可；如果 ![\\inline w](http://latex.codecogs.com/png.latex?%5Cinline%20w) 的取值是连续的，可以假设 ![\\inline w](http://latex.codecogs.com/png.latex?%5Cinline%20w) 服从正态分布。
 
-太多的小概率乘起来，可能会因为结果太小导致下溢或者得到不正确的答案。解决方法是：可以将概率取对数，这样乘法就变成了加法，取值虽然不相同，但也不影响最终答案。
+太多的小概率乘起来，可能会因为结果太小导致下溢或者得到不正确的答案。解决方法是：可以将概率取对数拟然(log-likelihood)，这样乘法就变成了加法，取值虽然不相同，但也不影响最终答案。
 
 ## 朴素贝叶斯背后的数学原理
 
