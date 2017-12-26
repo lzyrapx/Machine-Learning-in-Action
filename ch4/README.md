@@ -17,4 +17,6 @@
 ## 朴素贝叶斯背后的数学原理
 
 ### 后验概率(Posterior Probabilities)
-$$后验概率 = \frac{条件概率 * 先验概率}{现象概率}$$
+### 条件概率(Conditional Probabilities)
+### 先验概率(Prior Probabilities)
+### 现象概率(Evidence Probabilities)
