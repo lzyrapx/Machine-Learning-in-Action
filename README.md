@@ -9,9 +9,9 @@ Practices from Machine-Learning-in-Action.
 2. [x] chapter02 - Classifying with k-Nearest Neighbors
 3. [x] chapter03 - Splitting datasets one feature at a time: decision trees
 4. [x] chapter04 - Classifying with probability theory: naive Bayes
-5. [ ] chapter05 - Logistic regression
-6. [ ] chapter06 - Support vector machines
-7. [ ] chapter07 - Improving classification with the AdaBoost meta-algorithm
+5. [x] chapter05 - Logistic regression
+6. [x] chapter06 - Support vector machines
+7. [x] chapter07 - Improving classification with the AdaBoost meta-algorithm
 
 ### PART 2 FORECASTING NUMERIC VALUES WITH REGRESSION
 8. [ ] chapter08 - Predicting numeric values: regression
