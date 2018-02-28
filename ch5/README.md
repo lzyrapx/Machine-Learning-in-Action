@@ -1,4 +1,4 @@
-# Ch05 - Logistic回归
+# Ch05 - Logistic回归(Logistic regression)
 
 ## Logistic回归的主要思想：
 #### Logistic回归是本书目前为止首次接触最优化算法。
