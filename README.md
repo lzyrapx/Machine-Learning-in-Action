@@ -1,7 +1,7 @@
 # Machine-Learning-in-Action
 Practices from Machine-Learning-in-Action.
 
-《机器学习实战》练习笔记与代码。
+《机器学习实战》的笔记与代码。
 
 ## schedule
 ### PART 1 CLASSIFICATION
