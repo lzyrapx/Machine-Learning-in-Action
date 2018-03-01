@@ -1,4 +1,4 @@
-# Ch04 朴素贝叶斯(Naive Bayes)
+# Ch04 - 朴素贝叶斯(Naive Bayes)
 
 ## 朴素贝叶斯概述
 
