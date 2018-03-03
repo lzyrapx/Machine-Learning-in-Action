@@ -1,5 +1,6 @@
 # Ch07 - 利用AdaBoost元算法提高分类性能(Improving classification with the AdaBoost meta-algorithm)
 
+#### Adaboost是一种迭代算法，其核心思想是针对同一个训练集训练不同的分类器(弱分类器)，然后把这些弱分类器集合起来，构成一个更强的最终分类器（强分类器）。
 #### 本章用单层决策树作为弱学习器构造了 Adaboost分类器。 实际上，Adaboost函数可以应用于任意分类器，只要该分类器能够处理加权数据即可。
 
 ## 本章使用的单层决策树测试数据
