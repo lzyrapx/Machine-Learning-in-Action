@@ -1,7 +1,7 @@
 # Ch07 - 利用AdaBoost元算法提高分类性能(Improving classification with the AdaBoost meta-algorithm)
 
 #### 本章用单层决策树作为弱学习器构造了 Adaboost分类器。 实际上，Adaboost函数可以应用于任意分类器，只要该分类器能够处理加权数据即可。
-![单层决策树测试数据](screen/单层决策树测试数据.png)
+![单层决策树测试数据](screenshot/单层决策树测试数据.png)
 #### 元算法：算法最后的评估，不是靠一个模型给出的结果，而是综合考虑多个模型结果，来得出最后的结果。
  
 #### bagging：基于数据随机重抽样的分类器构建方法。
@@ -17,4 +17,4 @@
 
 ## 其他分类性能度量指标
 #### 包括正确率（precise），召回率（recall），以及ROC曲线等。
-![ROC曲线](screen/ROC曲线.png)
+![ROC曲线](screenshot/ROC曲线.png)
