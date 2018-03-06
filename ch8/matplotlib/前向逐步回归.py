@@ -84,7 +84,7 @@ weights = standRegress(xMat, yMat.T)
 print weights.T
 
 # print stageWise(xArr, yArr, 0.01, 200)
-mat = stageWise(xArr,yArr,0.005,1000) # 使用0.005的epsilon 迭代 5000次
+mat = stageWise(xArr,yArr,0.005,1000) # 使用0.005的epsilon 迭代 1000次
 
 def showRidge():
     import matplotlib.pyplot as plt
