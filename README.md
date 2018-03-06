@@ -1,5 +1,5 @@
 # Machine-Learning-in-Action
-Practices from Machine-Learning-in-Action.
+Practices & Code from Machine-Learning-in-Action.
 
 《机器学习实战》的笔记与代码。
 
