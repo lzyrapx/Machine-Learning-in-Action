@@ -37,7 +37,7 @@
 ### 测试二分K-means的数据集：
 ![dataSet2.png](screenshot/dataSet2.png)
 
-### 二分K-means的效果图：
+### 运行二分K-means的效果图：
 ![二分k-均值算法.png](screenshot/二分k-均值算法.png)
 
 ## 示例：对地图上的点聚类 
