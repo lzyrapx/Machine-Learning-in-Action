@@ -1,6 +1,6 @@
 
 # Machine learning basics
-## 学这本书之前，请把python，numpy库，matplotlib这些前置技能学好！！！不然将会学得很艰难！！！
+## 学这本书之前，请把线性代数，统计学，python，numpy库，matplotlib等这些前置技能学好！！！不然将会学得很艰难！！！
 ### None
 
 ```
