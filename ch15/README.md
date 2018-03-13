@@ -6,4 +6,4 @@
 
 ### 一个典型的作业流程是先使用map阶段并行处理数据，之后将这些数据在reduce阶段合并。这种多对一的模式很经典，但不是唯一的流程方式。mapper和reducer之间传输数据的形式是key/value对。一般地，map阶段后数据还会按照key值进行排序。Hadoop是一个流行的可行MapReduce作业的java项目，它同时提供非Java作业的运行支持，叫做Hadoop流。
 
-### 多机器学习算法都可以容易地写成MapReduce作业，而某些需要经过重写和创新性的修改，才能在MapReduce上运行。
+### 很多机器学习算法都可以容易地写成MapReduce作业，而某些需要经过重写和创新性的修改，才能在MapReduce上运行。
